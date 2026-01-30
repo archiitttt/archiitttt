@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Archit Kaushal
+# 👨‍💻 Hi, I'm Archit Kaushal
 
 C++ and MERN Stack Engineer specializing in backend development and scalable system design.  
 Experienced in building robust RESTful APIs, MVC-based architectures, and data-intensive applications.  
